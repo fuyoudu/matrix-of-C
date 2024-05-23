@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/algebra.h
+
+D:/code/bianchengjichu/zhangliheng-hw1/src/algebra.c
+algebra.h
+D:/code/bianchengjichu/zhangliheng-hw1/src/algebra.h
+stdio.h
+-
+math.h
+-
+
+D:/code/bianchengjichu/zhangliheng-hw1/src/main.c
+stdio.h
+-
+algebra.h
+D:/code/bianchengjichu/zhangliheng-hw1/src/algebra.h
+

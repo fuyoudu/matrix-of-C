@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/code/bianchengjichu/zhangliheng-hw1/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g   -o CMakeFiles\\main.dir\\src\\algebra.c.obj   -c D:\\code\\bianchengjichu\\zhangliheng-hw1\\src\\algebra.c",
+  "file": "D:/code/bianchengjichu/zhangliheng-hw1/src/algebra.c"
+},
+{
+  "directory": "D:/code/bianchengjichu/zhangliheng-hw1/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g   -o CMakeFiles\\main.dir\\src\\main.c.obj   -c D:\\code\\bianchengjichu\\zhangliheng-hw1\\src\\main.c",
+  "file": "D:/code/bianchengjichu/zhangliheng-hw1/src/main.c"
+}
+]
